@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Henry Ugochukwu Agu
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently working with Php and JavaScript
+- 🌱 I’m currently working with Php and Laravel
 - 💞️ I’m looking to collaborate with good developers and companies
 - 📫 How to reach me @henrym3n3z on twitter
 
