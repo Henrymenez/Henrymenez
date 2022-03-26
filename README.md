@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Henry Ugochukwu Agu
-- 👀 I’m interested in Software Development
+- 👀 I’m interested in Building cool things
 - 🌱 I’m currently working with Php, Laravel, Nodesjs and Expressjs
 - 💞️ I’m looking to collaborate with developers and companies
 
