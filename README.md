@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Henry Ugochukwu Agu
 - 👀 I’m interested in Building cool things
-- 🌱 I’m currently working with Php, Laravel, Nodesjs and Expressjs
+- 🌱 I’m currently working with Php, Javascript and .Net
 - 💞️ I’m looking to collaborate with developers and companies
 
 <!---
