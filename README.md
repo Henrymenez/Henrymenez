@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Henry Ugochukwu Agu
-- 👀 I’m interested in Building cool things
-- 🌱 I’m currently working with Php, Javascript and .Net
+- 👋 Hi, I’m Henry Ugochukwu
+-  🤞🏿 Trying to understand how things work 
+- 🌱 I’m currently Learning/working with .Net
 - 💞️ I’m looking to collaborate with developers and companies
 
 <!---
