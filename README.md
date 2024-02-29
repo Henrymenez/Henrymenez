@@ -2,11 +2,9 @@ Hello there 🤚
 
 I am Henry Ugochukwu
 
-I am currently learning - C#.Net || PHP || NodesJs
+currently learning / working with - C#.Net 
 
-Learning to build stuff that works on the Internet 
-
-🔭 I’m working on a MultiTenency application.
+Learning to build
 
 👯 I’m looking to collaborate on anything Tech
 
