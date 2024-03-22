@@ -1,6 +1,6 @@
 Hello there 🤚 
 
-I am Henry Ugochukwu, currently learning / working with - C#.Net 
+I am Henry Ugochukwu, currently learning C#.Net 
 
 👯 I’m looking to collaborate on anything Tech
 
