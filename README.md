@@ -1,6 +1,6 @@
 Hello there 🤚 
 
-I am Henry Ugochukwu, currently learning C# .NetCore
+I am Agu Ugochukwu, currently learning C# .NetCore
 
 👯 I’m looking to collaborate
 
