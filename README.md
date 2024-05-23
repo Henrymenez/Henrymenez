@@ -26,5 +26,3 @@
 ### :fire: My Stats :
 <img align="center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrymenez&theme=dark"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Henrymenez&show_icons=true&theme=dark"/>
-<img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=Henrymenez&theme=dark"/>
