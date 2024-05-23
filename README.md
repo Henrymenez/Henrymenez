@@ -1,4 +1,4 @@
-### Hi there👋 I'm Henry! I'm a Software Engineer.
+### Hi there👋 I'm Agu Ugochukwu! I'm a Software Engineer.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnVzaDRicmx0MTM5aXJ1YzkyY2FhODRsbXI3dGlpc3M0bjU3OGtkdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning C# Asp.Net, Node.js and PHP.
 - 👯 I’m looking to collaborate on any projects.
-- 📫 How to reach me: henryugochukwuagu@gmail.com.
+- 📫 How to reach me: henryugochukwuagu@gmail.com
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
