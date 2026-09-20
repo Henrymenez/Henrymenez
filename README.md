@@ -10,7 +10,7 @@
   </a>
 </div>
 
-- 🌱 I’m currently learning C# Asp.Net, Node.js and PHP.
+- 🌱 I’m currently learning C# Asp.Net
 - 👯 I’m looking to collaborate on any projects.
 - 📫 How to reach me: henryugochukwuagu@gmail.com
 
